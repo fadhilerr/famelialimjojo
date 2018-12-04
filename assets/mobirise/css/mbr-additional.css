@@ -75,30 +75,66 @@
 }
 
 
-#dropdown-menu-2btn-z .hide-buttons [data-button] {
+#dropdown-menu-2btn-1g .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-2btn-z .navbar-brand a {
+#dropdown-menu-2btn-1g .navbar-brand a {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
-#dropdown-menu-2btn-z .nav .link,
-#dropdown-menu-2btn-z .dropdown-item {
+#dropdown-menu-2btn-1g .nav .link,
+#dropdown-menu-2btn-1g .dropdown-item {
   font-size: 1em;
   color: #000000;
   font-family: 'Open Sans', sans-serif;
 }
-#dropdown-menu-2btn-z .navbar,
-#dropdown-menu-2btn-z .dropdown-menu {
+#dropdown-menu-2btn-1g .navbar,
+#dropdown-menu-2btn-1g .dropdown-menu {
   background: #dddddd;
 }
-#dropdown-menu-2btn-z .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-z .dropdown-menu a:hover,
-#dropdown-menu-2btn-z .dropdown-menu a:focus {
+#dropdown-menu-2btn-1g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1g .dropdown-menu a:hover,
+#dropdown-menu-2btn-1g .dropdown-menu a:focus {
   background: #d3d3d3;
 }
-#dropdown-menu-2btn-z .navbar-toggler {
+#dropdown-menu-2btn-1g .navbar-toggler {
   color: #000000;
+}
+#msg-box4-1m .lead P {
+  text-align: left;
+}
+#msg-box4-1n .lead P {
+  text-align: left;
+}
+
+
+#dropdown-menu-2btn-2a .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-2a .navbar-brand a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+#dropdown-menu-2btn-2a .nav .link,
+#dropdown-menu-2btn-2a .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-2a .navbar,
+#dropdown-menu-2btn-2a .dropdown-menu {
+  background: #dddddd;
+}
+#dropdown-menu-2btn-2a .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-2a .dropdown-menu a:hover,
+#dropdown-menu-2btn-2a .dropdown-menu a:focus {
+  background: #d3d3d3;
+}
+#dropdown-menu-2btn-2a .navbar-toggler {
+  color: #000000;
+}
+#msg-box4-2g .lead P {
+  text-align: left;
 }
 
 
@@ -135,64 +171,28 @@
 }
 
 
-#dropdown-menu-2btn-2a .hide-buttons [data-button] {
+#dropdown-menu-2btn-z .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-2btn-2a .navbar-brand a {
+#dropdown-menu-2btn-z .navbar-brand a {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
-#dropdown-menu-2btn-2a .nav .link,
-#dropdown-menu-2btn-2a .dropdown-item {
+#dropdown-menu-2btn-z .nav .link,
+#dropdown-menu-2btn-z .dropdown-item {
   font-size: 1em;
   color: #000000;
   font-family: 'Open Sans', sans-serif;
 }
-#dropdown-menu-2btn-2a .navbar,
-#dropdown-menu-2btn-2a .dropdown-menu {
+#dropdown-menu-2btn-z .navbar,
+#dropdown-menu-2btn-z .dropdown-menu {
   background: #dddddd;
 }
-#dropdown-menu-2btn-2a .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-2a .dropdown-menu a:hover,
-#dropdown-menu-2btn-2a .dropdown-menu a:focus {
+#dropdown-menu-2btn-z .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-z .dropdown-menu a:hover,
+#dropdown-menu-2btn-z .dropdown-menu a:focus {
   background: #d3d3d3;
 }
-#dropdown-menu-2btn-2a .navbar-toggler {
+#dropdown-menu-2btn-z .navbar-toggler {
   color: #000000;
-}
-#msg-box4-2g .lead P {
-  text-align: left;
-}
-
-
-#dropdown-menu-2btn-1g .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-1g .navbar-brand a {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-}
-#dropdown-menu-2btn-1g .nav .link,
-#dropdown-menu-2btn-1g .dropdown-item {
-  font-size: 1em;
-  color: #000000;
-  font-family: 'Open Sans', sans-serif;
-}
-#dropdown-menu-2btn-1g .navbar,
-#dropdown-menu-2btn-1g .dropdown-menu {
-  background: #dddddd;
-}
-#dropdown-menu-2btn-1g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-1g .dropdown-menu a:hover,
-#dropdown-menu-2btn-1g .dropdown-menu a:focus {
-  background: #d3d3d3;
-}
-#dropdown-menu-2btn-1g .navbar-toggler {
-  color: #000000;
-}
-#msg-box4-1m .lead P {
-  text-align: left;
-}
-#msg-box4-1n .lead P {
-  text-align: left;
 }
